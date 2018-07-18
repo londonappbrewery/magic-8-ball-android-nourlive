@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="Text">Make everyday decisions easier!</string>
+    <string name="AskButton">Ask</string>
+    <string name="Image_ball">Image_ball</string>
+    <string name="text_nour">this app was genarated by noureddine</string>
 </resources>
